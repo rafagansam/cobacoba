@@ -1,28 +1,15 @@
-# Nalika
-Free dark design Bootstrap admin dashboard template
+# Website Kontrol Kesehatan Pacar
+website ini sangat membantu kamu dalam kontrol s doi
 
-# Preview
+# Selamat Datang !!!!
 
-### Screenshot
+### Selamat Menikmati
 
-![Nalika admin dashboard template preview](https://colorlib.com/wp/wp-content/uploads/sites/2/nalika-simple-free-bootstrap-admin-dashboard.jpg)
+![Ini tu gambar pemandangan](https://www.google.co.id/url?sa=i&source=images&cd=&ved=2ahUKEwjSsKPl-ZvkAhXGaFAKHZVLBB0QjRx6BAgBEAQ&url=https%3A%2F%2Fblog.tiket.com%2Fpemandangan-alam-terindah-di-indonesia%2F&psig=AOvVaw0JXeYwFebXYd-dMi15H6E_&ust=1566751356886133)
 
 
-### Demo Site: [Here](https://colorlib.com/polygon/nalika/index.html)
+### Langsung aja menuju : [Here](https://colorlib.com/polygon/nalika/index.html)
 
-### Changelog
-#### V 1.0.0
-Initial Release
-### Authors
-[Colorlib](https://colorlib.com)
-
-### More info
-- [Bootstrap Admin Templates](https://colorlib.com/wp/free-bootstrap-admin-dashboard-templates/)
-- [Angular dashboards](https://colorlib.com/wp/angularjs-admin-templates/)
-- [Admin Dashboards](https://colorlib.com/wp/free-html5-admin-dashboard-templates/)
-- [HTML Templates](https://colorlib.com/wp/templates/)
-- [WordPress Themes](https://colorlib.com/wp/free-wordpress-themes/)
-
-### License
-
-Nalika is licensed under The MIT License (MIT). Which means that you can use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the final products. But you always need to state that Colorlib is the original author of this template.
+## Catatan
+jika kalian mendapatkan masalah hubungi
+Krisna : 083834910333
