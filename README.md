@@ -5,7 +5,7 @@ website ini sangat membantu kamu dalam kontrol s doi
 
 ### Selamat Menikmati
 
-![Ini tu gambar pemandangan](https://www.google.co.id/url?sa=i&source=images&cd=&ved=2ahUKEwjSsKPl-ZvkAhXGaFAKHZVLBB0QjRx6BAgBEAQ&url=https%3A%2F%2Fblog.tiket.com%2Fpemandangan-alam-terindah-di-indonesia%2F&psig=AOvVaw0JXeYwFebXYd-dMi15H6E_&ust=1566751356886133)
+![Ini tu gambar](nalika/img/BANNER HUT 73 NEW.jpg)
 
 
 ### Langsung aja menuju : [Here](https://colorlib.com/polygon/nalika/index.html)
